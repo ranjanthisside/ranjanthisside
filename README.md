@@ -1,6 +1,6 @@
-![logo](./github_banner.png)
-<h1 align="center">Hi 👋, I'm Prabhakar Ranjan</h1>
-<h3 align="center">A passionate developer from India</h3>
+![logo](https://github.com/ranjanthisside/ranjanthisside/blob/main/github%20banner.png)
+<h1 >Hi 👋, I'm Prabhakar Ranjan</h1>
+<h3 >I am current doing B.Tech from Haldia Institute of Technology.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanthisside&label=Profile%20views&color=0e75b6&style=flat" alt="ranjanthisside" /> </p>
 
