@@ -1,4 +1,4 @@
-![logo](https://github.com/ranjanthisside/ranjanthisside/blob/main/github%20banner.png.png)
+![logo](./github_banner.png)
 <h1 align="center">Hi 👋, I'm Prabhakar Ranjan</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif"
